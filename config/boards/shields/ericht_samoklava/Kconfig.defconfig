@@ -4,7 +4,7 @@
 if SHIELD_ERICHT_SAMOKLAVA_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "ericht-samoklava"
+	default "Ericht Samoklava"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
